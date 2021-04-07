@@ -1,2 +1,1 @@
-# bionic-coding-challenge
-Bionic Coding Challenge
+# Bionic Coding Challenge
